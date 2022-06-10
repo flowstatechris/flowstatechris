@@ -1,7 +1,7 @@
 ### Hey! I'm Chris - aka [flowstatechris][website] 👋 
 ## I'm a Student, Programmer, Business Developer, and Artist!
 
-- 🌱 I’m currently learning how to make my own DAO
+- 🌱 I’m currently learning how to build solutions using AWS!
 - 🌎 I’m looking to take over the world 
 - 🥅 2022 Goals: Become more versatile.
 - ⚡ Fun fact: I am ambidextrous!
