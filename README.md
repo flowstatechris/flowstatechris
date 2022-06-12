@@ -1,16 +1,9 @@
-# Hey! I'm Chris - aka [flowstatechris][website] 👋 
-### I'm a Student, Programmer, Business Developer, and Artist!
+# I'm Chris - aka [flowstatechris][website] 👋 
+### I'm a Student, Programmer, and Artist!
 
-- 🌱 I’m currently learning how to build solutions using AWS!
-- 🌎 I’m looking to take over the world 
-- 🥅 2022 Goals: Become more versatile.
-- ⚡ Fun fact: I am ambidextrous!
-
-
- ### "You have power over your mind, not outside events. Realize this, and you will find strength" - Marcus Aurelius
-
-
-
+🧠 I’m currently learning how to build solutions using AWS!
+ 
+🥅 2022 Goals: Become more versatile.
 
  Connect with me:
 
@@ -26,4 +19,3 @@
 [twitter]: https://twitter.com/flowstatechris
 [instagram]: https://instagram.com/flowstatechris
 [linkedin]: https://linkedin.com/in/chris-victorin
-
